@@ -1,0 +1,27 @@
+{
+  "name": "ai-test-generator",
+  "version": "1.0.0",
+  "description": "Sistema inteligente que gera testes automatizados Playwright a partir de descrições em linguagem natural usando OpenAI GPT.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciboto/ai-test-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ciboto/ai-test-generator/issues"
+  },
+  "homepage": "https://github.com/ciboto/ai-test-generator#readme",
+  "dependencies": {
+    "@playwright/test": "^1.54.1",
+    "dotenv": "^17.2.1",
+    "openai": "^5.10.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
