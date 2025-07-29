@@ -1,7 +1,7 @@
 # 🧠 AI Test Generator — Gerador Inteligente de Testes com Playwright + OpenAI
 ![License](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-Integrated-008AD7?logo=openai&logoColor=white&style=for-the-badge)
-
+![Playwright](https://img.shields.io/badge/Playwright-Framework-brightgreen?logo=playwright&logoColor=white&style=for-the-badge)
 > Gere testes E2E automaticamente a partir de descrições em linguagem natural usando OpenAI e Playwright.
 
 ---
