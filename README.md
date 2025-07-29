@@ -1,5 +1,7 @@
 # 🧠 AI Test Generator — Gerador Inteligente de Testes com Playwright + OpenAI
-
+![License](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-Integrated-008AD7?logo=openai&logoColor=white&style=for-the-badge)
+![Playwright](https://img.shields.io/badge/Playwright-Framework-brightgreen?logo=playwright&logoColor=white&style=for-the-badge)
 > Gere testes E2E automaticamente a partir de descrições em linguagem natural usando OpenAI e Playwright.
 
 ---
@@ -90,6 +92,9 @@ npx playwright test tests/
 A chave da OpenAI está armazenada no .env
 - Nunca suba esse arquivo para o GitHub
 - Adicione .env ao seu .gitignore
+  ---
+## ⚖️ Licença
+Este projeto está licenciado sob a [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) - Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
 ### 📌 Possibilidades futuras
 - UI web com formulário para geração de testes
